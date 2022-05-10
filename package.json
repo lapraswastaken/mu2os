@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/lapraswastaken/mu2os#readme",
   "dependencies": {
+    "@discordjs/builders": "^0.13.0",
     "@discordjs/rest": "^0.4.1",
     "discord-api-types": "^0.32.1",
     "discord.js": "^13.6.0"
